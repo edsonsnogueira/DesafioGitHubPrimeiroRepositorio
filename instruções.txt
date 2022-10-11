@@ -1,0 +1,6 @@
+Comandos
+
+git status
+git clone
+git 
+
