@@ -2,5 +2,8 @@ Comandos
 
 git status
 git clone
-git 
+git add . ou - A ; Adicionar arquivos
+git push origin main - publicar arquivos do micro para o git
+
+
 
